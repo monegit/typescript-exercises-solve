@@ -8,8 +8,6 @@
 > `union type`은 `type guard`가 없을 경우 교집합 하는 `property`만 사용 가능하다.
 > 
 > `in 연산자`는 객체 내부에 특정 `property`의 존재 유무를 `bool`타입으로 반환한다.
-> 
-> `is 연산자`는 매개변수를 interface(해당 문제에서는 User interface)로 지정하고 특정 `property`의 존재 유무를 `bool`타입으로 반환한다.
 
 ---
 
@@ -33,26 +31,4 @@ let additionalInformation: string = "";
 
 // line 59
 if ("role" in person) {...}
-```
-
-```ts
-// is 연산자
-
-// add 'isUser' function
-function isUser(arg: any): arg is User {
-  return arg.occupation !== undefined;
-}
-
-// edit 'logPerson' function
-export function logPerson(person: Person) {
-	...
-
-  if (isUser(person)) {
-    additionalInformation = person.occupation;
-  } else {
-    additionalInformation = person.role;
-  }
-	
-	...
-}
 ```
