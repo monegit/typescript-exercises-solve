@@ -53,23 +53,14 @@ export const persons: Person[] = [
   },
 ];
 
-function isUser(arg: any): arg is User {
-  return arg.occupation !== undefined;
-}
-
 export function logPerson(person: Person) {
   let additionalInformation: string = "";
 
-  if (isUser(person)) {
-    additionalInformation = person.occupation;
-  } else {
+  if ("role" in person) {
     additionalInformation = person.role;
+  } else {
+    additionalInformation = person.occupation;
   }
-  // if ("role" in person) {
-  //   additionalInformation = person.role;
-  // } else {
-  //   additionalInformation = person.occupation;
-  // }
 
   console.log(` - ${person.name}, ${person.age}, ${additionalInformation}`);
 }
