@@ -6,7 +6,7 @@
 3. Happy Hacking 👍
 
 ## 🏆 Step
-* [Step1]() - solved (2023.02.14.)
+* [Step1](https://github.com/monegit/typescript-exercises-solve/tree/master/src/step1) - solved (2023.02.14.)
 * [Step2]() - ready
 * [Step3]() - ready
 * [Step4]() - ready
