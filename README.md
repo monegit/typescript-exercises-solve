@@ -8,16 +8,16 @@
 ## 🏆 Step
 * [Step1](https://github.com/monegit/typescript-exercises-solve/tree/master/src/step1) - solved (2023.02.14.)
 * [Step2](https://github.com/monegit/typescript-exercises-solve/tree/master/src/step2) - solved (2023.02.14.)
-* [Step3]() - ready
-* [Step4]() - ready
-* [Step5]() - ready
-* [Step6]() - ready
-* [Step7]() - ready
-* [Step8]() - ready
-* [Step9]() - ready
-* [Step10]() - ready
-* [Step11]() - ready
-* [Step12]() - ready
-* [Step13]() - ready
-* [Step14]() - ready
-* [Step15]() - ready
+* [Step3](https://github.com/monegit/typescript-exercises-solve/tree/master/src/step3) - solved (2023.02.14.)
+* Step4 - ready
+* Step5 - ready
+* Step6 - ready
+* Step7 - ready
+* Step8 - ready
+* Step9 - ready
+* Step10 - ready
+* Step11 - ready
+* Step12 - ready
+* Step13 - ready
+* Step14 - ready
+* Step15 - ready
