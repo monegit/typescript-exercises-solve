@@ -1,7 +1,7 @@
 ### 📝 풀이
 1. 해당 문제는 `interface` 혹은 `type alias`로 해결 가능한 문제
 2. 하지만 [problem.ts](problem.ts)의 주석 중 `Exercise`를 보면 **interface**를 사용하여 User를 정의하라고 함.
-3. `User`를 interface로 바꿔주고, unknown을 User로 변경해준다.
+3. User를 interface로 바꿔주고, unknown을 User로 변경해준다.
 
 ---
 
