@@ -6,11 +6,11 @@
 3. Problem fix and Enjoy 👍
 
 ## 🏆 Step
-* [Step1](/src/step1) - solved (2023.02.14.)
-* [Step2](/src/step2) - solved (2023.02.14.)
-* [Step3](/src/step3) - solved (2023.02.14.)
-* [Step4](/src/step4) - solved (2023.02.15.)
-* Step5 - ready
+* [Step1](/src/step1/) - fix (2023.02.14.)
+* [Step2](/src/step2/) - fix (2023.02.14.)
+* [Step3](/src/step3/) - fix (2023.02.14.)
+* [Step4](/src/step4/) - fix (2023.02.15.)
+* [Step5](/src/step5/) - fix (2023.02.15.)
 * Step6 - ready
 * Step7 - ready
 * Step8 - ready
