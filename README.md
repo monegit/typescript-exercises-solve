@@ -3,7 +3,7 @@
 ## ⚽️ How to play?
 1. Select typescript problem level.
 2. Read the code and remove all red lines (error syntax)
-3. Happy Hacking 👍
+3. Solve problem and Enjoy 👍
 
 ## 🏆 Step
 * [Step1](/src/step1) - solved (2023.02.14.)
