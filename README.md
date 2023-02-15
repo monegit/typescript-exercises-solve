@@ -9,7 +9,7 @@
 * [Step1](https://github.com/monegit/typescript-exercises-solve/tree/master/src/step1) - solved (2023.02.14.)
 * [Step2](https://github.com/monegit/typescript-exercises-solve/tree/master/src/step2) - solved (2023.02.14.)
 * [Step3](https://github.com/monegit/typescript-exercises-solve/tree/master/src/step3) - solved (2023.02.14.)
-* Step4 - ready
+* [Step4](/src/step4) - solved (2023.02.15.)
 * Step5 - ready
 * Step6 - ready
 * Step7 - ready
