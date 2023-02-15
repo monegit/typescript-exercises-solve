@@ -6,6 +6,8 @@
 > 
 > `is 키워드`는 매개변수를 interface(해당 문제에서는 User interface)로 지정하고 특정 `property`의 존재 유무를 `bool`타입으로 반환한다.
 
+---
+
 ### 🐤 Before
 ```ts
 // line 46
