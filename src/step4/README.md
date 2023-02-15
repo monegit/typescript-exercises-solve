@@ -8,16 +8,18 @@
 
 ### 🐤 Before
 ```ts
-// line 41
+// line 46
 export function isAdmin(person: Person) {...}
 
-// line 45
+// line 50
 export function isUser(person: Person) {...}
 ```
 
 ### 🐔 After
 ```ts
+// line 46
 export function isAdmin(person: Person): person is Admin {...}
 
+// line 50
 export function isUser(person: Person): person is User {...}
 ```
