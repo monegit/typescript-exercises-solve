@@ -95,7 +95,7 @@ export function logPerson(person: Person) {
 export function filterUsers(
   persons: Person[],
   criteria: Partial<User>
-): User[] {
+): Person[] {
   return persons.filter(isUser).filter((user) => {
     const criteriaKeys = Object.keys(criteria) as (keyof User)[];
     return criteriaKeys.every((fieldName) => {

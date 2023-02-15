@@ -92,9 +92,9 @@ export function logPerson(person: Person) {
   console.log(` - ${person.name}, ${person.age}, ${additionalInformation}`);
 }
 
-type Criteria = Exclude<{ age: number }, User>;
+type Criteria = Exclude<{ age: number }, Person>;
 
-export function filterUsers(persons: Person[], criteria: Criteria): User[] {
+export function filterUsers(persons: Person[], criteria: Criteria): Person[] {
   return persons.filter(isUser).filter((user) => {
     const criteriaKeys = Object.keys(criteria) as (keyof Criteria)[];
     return criteriaKeys.every((fieldName) => {
