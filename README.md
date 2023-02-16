@@ -13,7 +13,7 @@
 * [Step5](/src/step5/) - fix (2023.02.15.)
 * [Step6](/src/step6/) - fix (2023.02.16.)
 * [Step7](/src/step7/) - fix (2023.02.16.)
-* Step8 - ready
+* [Step8](/src/step8/) - fix (2023.02.16.)
 * Step9 - ready
 * Step10 - ready
 * Step11 - ready
